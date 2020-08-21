@@ -1,0 +1,109 @@
+#EXTM3U
+
+01 #EXTINF: BTV 
+http://103.205.133.19/hls/btv.m3u8
+
+02 #EXTINF: BTV World
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+03 #EXTINF: BTV Chattagram
+https://bds.jagobd.com:444/live-orgin/btvnational-ctg.stream/chunks.m3u8?
+
+04 #EXTINF: Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+05 #EXTINF: asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+06 #EXTINF: ATN Bangla TV
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+07 ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+08 Bangla Vision
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+09 Boishakhi TV
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+10 Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+
+11 Channel 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+
+12 Channel i
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+13 DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+
+14 Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+15 Desh TV
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+16 Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+17 Ekattor TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1598016346/ei/-nY_X67dKteA9fwP-9i3-A8/ip/157.245.101.66/id/Zz8rx8goc6I.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r5---sn-h5576n7k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1410/mh/1P/mm/44/mn/sn-h5576n7k/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1597994716/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgeI2tBI7J5xt4WEf4zAQc9vt9QsdCDI1Zjl03P4eEVFwCIGOnefcXyX3T31TyEc_YTskOMpjidA6YtIKunpAzPYtX/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgSQSj5Z_PR6oru29sbd5OwfSvKc20rceBkOwijdvAOHMCIGJWfJOjUXDrGLHOZ77sarXrJQnSrZv92qkfki0hfJjO/playlist/index.m3u874
+
+18 Ekushey TV
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+
+19 Gaan Bangla
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+20 Gazi TV
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+21 Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+
+22 Jamuna TV
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+23 Maasranga TV
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+
+24 Mohona TV
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
+25 News 24
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+
+26 NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+27 RTV
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+
+28 SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+ 
+29 Somoy News
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+30 Nagorik TV
+http://103.205.133.14/hls/nagorik.m3u8
+
+31 Bangla TV
+http://103.205.133.14/hls/banglatv.m3u8
+
+32 Star Jalsha HD
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
+33 Zee Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+34 Color Bangla HD
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+
+35 Sony Aath
+http://ccn.anytv.live:8080/sonyaath/index.m3u8
+
+36 Aakash Aath
+https://itpolly.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8
