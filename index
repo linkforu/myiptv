@@ -1,99 +1,99 @@
 #EXTM3U
 
-#EXTINF:0,BTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1c-Yp78Rlqy1uNVJrygtVjssfuoUFXoEe/view?usp=sharing" group-title="Bangladesh",BTV
 http://103.205.133.19/hls/btv.m3u8
 
-#EXTINF:0,BTV World
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1J1Sjr4c6ma8QTXIoUSlyv8Z5P_4iHPqt/view?usp=sharing" group-title="Bangladesh",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
-#EXTINF:0,BTV Chattagram
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1fSVasj5Or3utuzikzu2b9VxadmSE3_vm/view?usp=sharing" group-title="Bangladesh",BTV Chattagram
 https://bds.jagobd.com:444/live-orgin/btvnational-ctg.stream/chunks.m3u8?
 
-#EXTINF:0,Sangsad TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Sangsad TV
 https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
-#EXTINF:0,Asian TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/15HQNBWf_WFjy8GJHEzIWadl-ECwyBJPj/view?usp=sharing" group-title="Bangladesh",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
-#EXTINF:0,ATN Bangla TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",ATN Bangla TV
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
-#EXTINF:0,ATN News
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
-#EXTINF:0,Bangla Vision
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Bangla Vision
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 
-#EXTINF:0,Boishakhi TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
-#EXTINF:0,Channel 9
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
-#EXTINF:0,Channel 24
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
-#EXTINF:0,Channel i
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Channel i
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
-#EXTINF:0,DBC News
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
-#EXTINF:0,Deepto TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
-#EXTINF:0,Desh TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 
-#EXTINF:0,Duronto TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
-#EXTINF:0,Ekattor TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Ekattor TV
 http://103.135.208.14/live/ibox/bd/88.m3u8
 
-#EXTINF:0,Ekushey TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
-#EXTINF:0,Gaan Bangla
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
-#EXTINF:0,Gazi TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Gazi TV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 
-#EXTINF:0,Independent TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
-#EXTINF:0,Jamuna TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Jamuna TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
-#EXTINF:0,Maasranga TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Maasranga TV
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
-#EXTINF:0,Mohona TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Mohona TV
 https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 
-#EXTINF:0,News 24
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 
-#EXTINF:0,NTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
-#EXTINF:0,RTV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
-#EXTINF:0,SA TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
  
-#EXTINF:0,Somoy News
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
-#EXTINF:0,Nagorik TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Nagorik TV
 http://103.205.133.14/hls/nagorik.m3u8
 
-#EXTINF:0,Bangla TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Bangla TV
 http://103.205.133.14/hls/banglatv.m3u8
 
-#EXTINF:0,Star Jalsha HD
+Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
 #EXTINF:0,Zee Bangla
