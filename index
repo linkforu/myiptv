@@ -107,3 +107,160 @@ http://ccn.anytv.live:8080/sonyaath/index.m3u8
 
 36 Aakash Aath
 https://itpolly.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8
+
+37 Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+38 Zee TV
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+39 Sony TV
+http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
+
+40 Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+41 Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+42 Zee Bangla Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_bangla_cinema/chunks.m3u80a93992d915b95b9.174=103.58.73.174
+
+43 Star Gold Hd
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+44 Star Gold 2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+45 Star Gold Select HD
+http://dflix.live:8082/75/index.m3u8?token=3d84071b528f01e2173d2fdcba6fe41b6e001eaf-ae7755747a3b3a9c5da1b89a1c78811e-1597968492-1597957692&remote=103.58.73.174
+
+46 Zee Cinema HD
+http://dflix.live:8082/76/index.m3u8?token=a93622bebc5fa90469c858d134193e9763253a8a-2ade18e4646d0c6598f6ace00bc723b6-1597964914-1597954114&remote=103.58.73.174
+
+47 Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+48 Sony max
+http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+
+49 Sony Pix HD
+http://103.205.133.14/hls/sonypix.m3u8
+
+50 Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+
+51 Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+
+52 &Flix
+https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1598009196~exp=1598012196~acl=/*~hmac=51422fa338c6312302c952c1e532d7203872a7620f02fd4722035c2d830b3d02202.58.252.52
+
+53 HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
+
+54 Sangeet bangla
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+55 Bangla Talkies
+http://103.141.66.36/bpk-tv/10081/default/index.m3u8
+
+56 Dhoom Music
+https://itpolly.iptv.digijadoo.net/live/dhoom_music/playlist.m3u8ote=103.58.73.174
+
+57 MTV beats
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+
+58 Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
+59 Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+60 9XM
+http://dflix.live:8082/48/index.m3u8?token=81ca36152cb641350b4cdac52937cd8bd988ef36-ca886e17f06d50a4f16d5d87fa1878e8-1598102291-1598091491&remote=103.58.73
+
+61 B4U
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+
+62 Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+
+63 Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+
+64 Star Sports 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+
+65 Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+
+66 Sony Ten 1 HD
+http://otv.ftpbd.net/streams/105/index.m3u8
+
+67 Sony Ten 2 HD
+http://otv.ftpbd.net/streams/112/index.m3u8
+
+68 Sony Ten 3 HD
+http://103.205.133.14/hls/ten3.m3u8
+
+69 Sony Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+
+70 ESPN
+http://dflix.live:8082/23/index.m3u8?token=8fc88d76832ab923be7056d6b42dea031e59386c-7fe6c78b51bc16121563d7bebe1d4935-1597965073-1597954273&remote=103.58.73.174
+
+71 DSports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+72 WWE
+http://195.154.119.3:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDc6NTY6MzEgUE0maGFzaF92YWx1ZT1IdnZvbGFCM0xHY1c1eUorRjNpTmR3PT0mdmFsaWRtaW51dGVzPTI=
+
+73 ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
+
+74 BBC World
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+75 VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
+
+76 DW
+https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
+
+77 NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+78 Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+
+79 Fox Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+
+80 Net Geo HD
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+
+81 Net Geo people
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+82 Net Wild
+
+
+83 Travel XP HD
+http://zer0live.hjkm.info:11990/juno/travelxphd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDExOjUwOjA3IEFNJmhhc2hfdmFsdWU9aGhkcjk2d3ZZZ2JnVDY0RHRoOHIyZz09JnZhbGlkbWludXRlcz0ymFsaWRtaW51dGVzPTI=
+
+84 History TV HD
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+85 BBC Lifestyle
+https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
+
+86 Animal Planet
+http://45.58.139.242:9630/toto/animalplanethindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDc6NDk6MTMgUE0maGFzaF92YWx1ZT1JZk5ubjh6cXF4ZllMd3Y0QXF5Nk93PT0mdmFsaWRtaW51dGVzPTI=
+
+87 Nick
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
+88 CN
+http://dflix.live:8082/79/index.m3u8?token=bcd655c17e54c24550be443b5471f5c98a815499-407341c99f1f1ecb5ff5085bb9e1c278-1597965264-1597954464&remote=103.58.73.174
+
