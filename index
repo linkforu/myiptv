@@ -93,160 +93,160 @@ http://103.205.133.14/hls/nagorik.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1qWnujCluHMtMHJYDgC9xJHQGfm3OHBtQ/view?usp=sharing" group-title="Bangladesh",Bangla TV
 http://103.205.133.14/hls/banglatv.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Entertainment",Star Jalsha HD
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1rF39gn_bJsyXZhisu6MhB_lnE9Ziz3f4/view?usp=sharing" group-title="Entertainment",Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Entertainment",Zee Bangla
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1x84TM16R88CqrbO7ysNuzJoVMoHs8Jfn/view?usp=sharing" group-title="Entertainment",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Entertainment",Color Bangla HD
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1RyKf4uvAu8laC81K4sZzcbcHP2_HVfvs/view?usp=sharing" group-title="Entertainment",Color Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Entertainment",Sony Aath
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1XgaqFUj0JwUrwtg-OI02zN-MYDEuKsfm/view?usp=sharing" group-title="Entertainment",Sony Aath
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Entertainment",Aakash Aath
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1mjtqjd3EFZDdvM0c-d0txAiH0m0ogq_I/view?usp=sharing" group-title="Entertainment",Aakash Aath
 https://itpolly.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Entertainment",Star Plus HD
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1pqcHmFmoYhgJv1z07FV9iloAwzHWnExA/view?usp=sharing" group-title="Entertainment",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Entertainment",Zee TV
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1hGlw8VwujsIPT6la2RFI6UcqgtnOrA_k/view?usp=sharing" group-title="Entertainment",Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Entertainment",Sony TV
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xZOVKaZSfHH3W0-hb53OlZ6Xd6O7LK5V/view?usp=sharing" group-title="Entertainment",Sony TV
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Entertainment",Colors HD
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1tcIFgazjYSrr3f_8pXFRKUZxY9kl0lTE/view?usp=sharing" group-title="Entertainment",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Movie",Jalsha Movies
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1WNb1tD4lNUqaRepw1NU7WHQYlfl700JB/view?usp=sharing" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Movie",Zee Bangla Cinema
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1x84TM16R88CqrbO7ysNuzJoVMoHs8Jfn/view?usp=sharing" group-title="Movie",Zee Bangla Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_bangla_cinema/chunks.m3u80a93992d915b95b9.174=103.58.73.174
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Movie",Star Gold Hd
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1RopmzcDbwRfAdr68cTp0cIznn9I7ciaJ/view?usp=sharing" group-title="Movie",Star Gold Hd
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Movie",Star Gold 2
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1p6Ahc3GmwOZcuvCcBaX3Iw7VqVydW7AH/view?usp=sharing" group-title="Movie",Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Movie",Star Gold Select HD
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1PqAyVGBcbm7doifrJ9NQtrKEU_D9MtVi/view?usp=sharing" group-title="Movie",Star Gold Select HD
 http://dflix.live:8082/75/index.m3u8?token=3d84071b528f01e2173d2fdcba6fe41b6e001eaf-ae7755747a3b3a9c5da1b89a1c78811e-1597968492-1597957692&remote=103.58.73.174
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Movie",Zee Cinema HD
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/10wITwk-mYa0m0QxpsXT3Phljo24J-jNW/view?usp=sharing" group-title="Movie",Zee Cinema HD
 http://dflix.live:8082/76/index.m3u8?token=a93622bebc5fa90469c858d134193e9763253a8a-2ade18e4646d0c6598f6ace00bc723b6-1597964914-1597954114&remote=103.58.73.174
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Movie",Zee Cinema
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xIzTtE-sH_XCUGRDk5Vec-73uopHscNj/view?usp=sharing" group-title="Movie",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Movie",Sony max
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",Sony max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Movie",Sony Pix HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1CgkUi32m79JNFb2dTamiQJwbTZWB41xl/view?usp=sharing" group-title="Movie",Sony Pix HD
 http://103.205.133.14/hls/sonypix.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Movie",Star Movies
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1JPyU5_UtFMK79slmK-sKKO6wqQfGv2Og/view?usp=sharing" group-title="Movie",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Movie",Star World
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1EPFLZFZVFmTegBRtVfNurB8psBhveCPD/view?usp=sharing" group-title="Movie",Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Movie",&Flix
 https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1598009196~exp=1598012196~acl=/*~hmac=51422fa338c6312302c952c1e532d7203872a7620f02fd4722035c2d830b3d02202.58.252.52
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Movie",HBO
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1q70mO_xMl1V-QNS3bfBHxavNs3O4Bw8Z/view?usp=sharing" group-title="Movie",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Music",Sangeet bangla
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1lQotVq-E3NVwOIRDkhmVk01MLUnvjMjb/view?usp=sharing" group-title="Music",Sangeet bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Music",Bangla Talkies
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1C1Eg2OOxVg-f_aZ8Lh4JRECV2t3c1AvO/view?usp=sharing" group-title="Music",Bangla Talkies
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Music",Dhoom Music
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1aIzFjxof7fhAUevNIk9LsH_616LQew4R/view?usp=sharing" group-title="Music",Dhoom Music
 https://itpolly.iptv.digijadoo.net/live/dhoom_music/playlist.m3u8ote=103.58.73.174
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Music",MTV beats
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1atzn6W35SJnsTHHcmwnX1JEi3UCE7F0N/view?usp=sharing" group-title="Music",MTV beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Music",Zoom
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/13wN-DPHdrGn9vn9e9UHgL3MXwWjEy2pB/view?usp=sharing" group-title="Music",Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Music",Zing
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1Ken7Wm0rEUMmkGWhoEH1AiTsIL1xljdC/view?usp=sharing" group-title="Music",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Music",9XM
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/18u7AZijj7tZENTs3pdevmyb60kfDhWtr/view?usp=sharing" group-title="Music",9XM
 http://103.205.133.14/hls/9xm.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="" group-title="Music",B4U
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xU9M9cPU3gU-I8iryJ0eqiRDy4rn0WGj/view?usp=sharing" group-title="Music",B4U
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1I0NNyXzis4FuqRnWp9HhVEwuVjSCj8Gg/view?usp=sharing" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1j0FUKw6OKmte-BpH56FiGW9Rb-wN-WPH/view?usp=sharing" group-title="Sports",Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Star Sports 1 HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1QmgnOZmmsyJwEGcP6VhbbVrq5z6RkdrW/view?usp=sharing" group-title="Sports",Star Sports 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Star Sports 2 HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1d1ilviMVssP0P00rTwP9f2HGYgqtE8JW/view?usp=sharing" group-title="Sports",Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Sony Ten 1 HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1xa5wU4SOQmIJHydqxC9aAj2Mozg52JTA/view?usp=sharing" group-title="Sports",Sony Ten 1 HD
 http://otv.ftpbd.net/streams/105/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Sony Ten 2 HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/143p7XehSw3lQ1qlswXYs7YnhbfJ8vzzb/view?usp=sharing" group-title="Sports",Sony Ten 2 HD
 http://otv.ftpbd.net/streams/112/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Sony Ten 3 HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1DO-l3lFbpPeB_Tj81utyA2LVMDffOSDc/view?usp=sharing" group-title="Sports",Sony Ten 3 HD
 http://103.205.133.14/hls/ten3.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",Sony Six
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1c8n40u26JK6TXc66N91d5YA4nv9ujtzT/view?usp=sharing" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",ESPN
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/13c_fEgvB7cHHcwb1KZzRqa9fUeO4QnpG/view?usp=sharing" group-title="Sports",ESPN
 http://dflix.live:8082/23/index.m3u8?token=8fc88d76832ab923be7056d6b42dea031e59386c-7fe6c78b51bc16121563d7bebe1d4935-1597965073-1597954273&remote=103.58.73.174
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",DSports
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1vzutzoEOyGEyiPYoR6h8r1QGCWurXgk7/view?usp=sharing" group-title="Sports",DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports",WWE
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1v8566mSi1XZ1xjenxIayZzaRo9WOyNLS/view?usp=sharing" group-title="Sports",WWE
 http://195.154.119.3:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDc6NTY6MzEgUE0maGFzaF92YWx1ZT1IdnZvbGFCM0xHY1c1eUorRjNpTmR3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="News",ABP Ananda
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1_CKUZo5E7SlXqo_ix4vc7Yvke9EGskCK/view?usp=sharing" group-title="News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="News",BBC World
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1Xl9rtz-ioiEZ7RzI3vGSc9ZCti3KpIeW/view?usp=sharing" group-title="News",BBC World
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="News",VOA
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1Yw6FECH3jf-lSguR_nh9GmQhq47eYQs_/view?usp=sharing" group-title="News",VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="News",DW
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1vTRQ3lLUW9o0erL3gc7tn8w9PFgD8eS4/view?usp=sharing" group-title="News",DW
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="News",NDTV 24x7
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1gUY9xmWWiZyjnxq3uZ5KwohwYoLV6Lj8/view?usp=sharing" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="News",Al Jazeera
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1SRXnpISUxfvElBFNX6xWV6xk9EeQHynr/view?usp=sharing" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",Fox Life
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1MDoU3GeN7bHMXbZGCI5LoCRLN5-lgCSf/view?usp=sharing" group-title="Infotainment",Fox Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",Nat Geo
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1ECYjBrOCrRvEEKzjCQ41yXKcb4t_FTAp/view?usp=sharing" group-title="Infotainment",Nat Geo
 https://bol.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",Nat Geo people
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1zOHO2uAp0IPZ3lw_sfZMHAY-8RnIHLZK/view?usp=sharing" group-title="Infotainment",Nat Geo people
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",Nat Geo Wild
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1te_5QWwOD6983YLeX7a_hk6Wfp_lMSJ5/view?usp=sharing" group-title="Infotainment",Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",Travel XP HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1r_77Gr-C-pxqIO5xW1HEfPL3JAX-jVqv/view?usp=sharing" group-title="Infotainment",Travel XP HD
 http://zer0live.hjkm.info:11990/juno/travelxphd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDExOjUwOjA3IEFNJmhhc2hfdmFsdWU9aGhkcjk2d3ZZZ2JnVDY0RHRoOHIyZz09JnZhbGlkbWludXRlcz0ymFsaWRtaW51dGVzPTI=
 
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",History TV HD
