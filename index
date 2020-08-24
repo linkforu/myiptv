@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1c-Yp78Rlqy1uNVJrygtVjssfuoUFXoEe/view?usp=sharing" group-title="Bangladesh",BTV
 http://103.205.133.19/hls/btv.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1J1Sjr4c6ma8QTXIoUSlyv8Z5P_4iHPqt/view?usp=sharing" group-title="Bangladesh",BTV World
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangladesh",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1fSVasj5Or3utuzikzu2b9VxadmSE3_vm/view?usp=sharing" group-title="Bangladesh",BTV Chattagram
