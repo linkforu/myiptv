@@ -249,18 +249,18 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1r_77Gr-C-pxqIO5xW1HEfPL3JAX-jVqv/view?usp=sharing" group-title="Infotainment",Travel XP HD
 http://zer0live.hjkm.info:11990/juno/travelxphd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDExOjUwOjA3IEFNJmhhc2hfdmFsdWU9aGhkcjk2d3ZZZ2JnVDY0RHRoOHIyZz09JnZhbGlkbWludXRlcz0ymFsaWRtaW51dGVzPTI=
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",History TV HD
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1v9e6zrGh9On2btdShxwzzFA0TeVXbiyY/view?usp=sharing" group-title="Infotainment",History TV HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",BBC Lifestyle
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1B4XbSIhXI8YYcfWNLcW4MvQOpcQGGbTp/view?usp=sharing" group-title="Infotainment",BBC Lifestyle
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Infotainment",Animal Planet
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1uuJDra8vLrV-hzWcMz-NBrNIpEInXxUh/view?usp=sharing" group-title="Infotainment",Animal Planet
 http://103.135.208.14/live/ibox/bd/93.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="kids",Nick
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1AFU1JaY08Jzj9CaMYjf1zf6i9KbuKyUX/view?usp=sharing" group-title="kids",Nick
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="kids",Cartoon Network
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1hqF-siFFXqY3C2hMo5HVSP9rhkfRbL4n/view?usp=sharing" group-title="kids",Cartoon Network
 http://dflix.live:8082/79/index.m3u8?token=bcd655c17e54c24550be443b5471f5c98a815499-407341c99f1f1ecb5ff5085bb9e1c278-1597965264-1597954464&remote=103.58.73.174
 
