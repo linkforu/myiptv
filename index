@@ -1,266 +1,266 @@
 #EXTM3U
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangladesh",BTV
+#EXTINF:0,BTV
 http://103.205.133.19/hls/btv.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangladesh",BTV World
+#EXTINF:0,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangladesh",BTV Chattagram
+#EXTINF:0,BTV Chattagram
 https://bds.jagobd.com:444/live-orgin/btvnational-ctg.stream/chunks.m3u8?
 
-#EXTINF: Sangsad TV
+#EXTINF:0,Sangsad TV
 https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
-#EXTINF: asian TV
+#EXTINF:0,Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
-#EXTINF: ATN Bangla TV
+#EXTINF:0,ATN Bangla TV
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
-ATN News
+#EXTINF:0,ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
-08 Bangla Vision
+#EXTINF:0,Bangla Vision
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 
-09 Boishakhi TV
+#EXTINF:0,Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
-10 Channel 9
+#EXTINF:0,Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
-11 Channel 24
+#EXTINF:0,Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
-12 Channel i
+#EXTINF:0,Channel i
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
-13 DBC News
+#EXTINF:0,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
-14 Deepto TV
+#EXTINF:0,Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
-15 Desh TV
+#EXTINF:0,Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 
-16 Duronto TV
+#EXTINF:0,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
-17 Ekattor TV
+#EXTINF:0,Ekattor TV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1598016346/ei/-nY_X67dKteA9fwP-9i3-A8/ip/157.245.101.66/id/Zz8rx8goc6I.0/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r5---sn-h5576n7k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1410/mh/1P/mm/44/mn/sn-h5576n7k/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1597994716/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgeI2tBI7J5xt4WEf4zAQc9vt9QsdCDI1Zjl03P4eEVFwCIGOnefcXyX3T31TyEc_YTskOMpjidA6YtIKunpAzPYtX/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgSQSj5Z_PR6oru29sbd5OwfSvKc20rceBkOwijdvAOHMCIGJWfJOjUXDrGLHOZ77sarXrJQnSrZv92qkfki0hfJjO/playlist/index.m3u874
 
-18 Ekushey TV
+#EXTINF:0,Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
-19 Gaan Bangla
+#EXTINF:0,Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
-20 Gazi TV
+#EXTINF:0,Gazi TV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 
-21 Independent TV
+#EXTINF:0,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
-22 Jamuna TV
+#EXTINF:0,Jamuna TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
-23 Maasranga TV
+#EXTINF:0,Maasranga TV
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
-24 Mohona TV
+#EXTINF:0,Mohona TV
 https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 
-25 News 24
+#EXTINF:0,News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 
-26 NTV
+#EXTINF:0,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
-27 RTV
+#EXTINF:0,RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
-28 SA TV
+#EXTINF:0,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
  
-29 Somoy News
+#EXTINF:0,Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
-30 Nagorik TV
+#EXTINF:0,Nagorik TV
 http://103.205.133.14/hls/nagorik.m3u8
 
-31 Bangla TV
+#EXTINF:0,Bangla TV
 http://103.205.133.14/hls/banglatv.m3u8
 
-32 Star Jalsha HD
+#EXTINF:0,Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
-33 Zee Bangla
+#EXTINF:0,Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
-34 Color Bangla HD
+#EXTINF:0,Color Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
-35 Sony Aath
+#EXTINF:0,Sony Aath
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
 
-36 Aakash Aath
+#EXTINF:0,Aakash Aath
 https://itpolly.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8
 
-37 Star Plus HD
+#EXTINF:0,Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-38 Zee TV
+#EXTINF:0,Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
-39 Sony TV
+#EXTINF:0,Sony TV
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
 
-40 Colors HD
+#EXTINF:0,Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-41 Jalsha Movies
+#EXTINF:0,Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
-42 Zee Bangla Cinema
+#EXTINF:0,Zee Bangla Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_bangla_cinema/chunks.m3u80a93992d915b95b9.174=103.58.73.174
 
-43 Star Gold Hd
+#EXTINF:0,Star Gold Hd
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-44 Star Gold 2
+#EXTINF:0,Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
-45 Star Gold Select HD
+#EXTINF:0,Star Gold Select HD
 http://dflix.live:8082/75/index.m3u8?token=3d84071b528f01e2173d2fdcba6fe41b6e001eaf-ae7755747a3b3a9c5da1b89a1c78811e-1597968492-1597957692&remote=103.58.73.174
 
-46 Zee Cinema HD
+#EXTINF:0,Zee Cinema HD
 http://dflix.live:8082/76/index.m3u8?token=a93622bebc5fa90469c858d134193e9763253a8a-2ade18e4646d0c6598f6ace00bc723b6-1597964914-1597954114&remote=103.58.73.174
 
-47 Zee Cinema
+#EXTINF:0,Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-48 Sony max
+#EXTINF:0,Sony max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 
-49 Sony Pix HD
+#EXTINF:0,Sony Pix HD
 http://103.205.133.14/hls/sonypix.m3u8
 
-50 Star Movies
+#EXTINF:0,Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 
-51 Star World
+#EXTINF:0,Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
-52 &Flix
+#EXTINF:0,&Flix
 https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1598009196~exp=1598012196~acl=/*~hmac=51422fa338c6312302c952c1e532d7203872a7620f02fd4722035c2d830b3d02202.58.252.52
 
-53 HBO
+#EXTINF:0,HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 
-54 Sangeet bangla
+#EXTINF:0,Sangeet bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 
-55 Bangla Talkies
+#EXTINF:0,Bangla Talkies
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
 
-56 Dhoom Music
+#EXTINF:0,Dhoom Music
 https://itpolly.iptv.digijadoo.net/live/dhoom_music/playlist.m3u8ote=103.58.73.174
 
-57 MTV beats
+#EXTINF:0,MTV beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
-58 Zoom
+#EXTINF:0,Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 
-59 Zing
+#EXTINF:0,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
-60 9XM
+#EXTINF:0,9XM
 http://dflix.live:8082/48/index.m3u8?token=81ca36152cb641350b4cdac52937cd8bd988ef36-ca886e17f06d50a4f16d5d87fa1878e8-1598102291-1598091491&remote=103.58.73
 
-61 B4U
+#EXTINF:0,B4U
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-62 Star Sports Select 1 HD
+#EXTINF:0,Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
 
-63 Star Sports Select 2 HD
+#EXTINF:0,Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
 
-64 Star Sports 1 HD
+#EXTINF:0,Star Sports 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 
-65 Star Sports 2 HD
+#EXTINF:0,Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
 
-66 Sony Ten 1 HD
+#EXTINF:0,Sony Ten 1 HD
 http://otv.ftpbd.net/streams/105/index.m3u8
 
-67 Sony Ten 2 HD
+#EXTINF:0,Sony Ten 2 HD
 http://otv.ftpbd.net/streams/112/index.m3u8
 
-68 Sony Ten 3 HD
+#EXTINF:0,Sony Ten 3 HD
 http://103.205.133.14/hls/ten3.m3u8
 
-69 Sony Six
+#EXTINF:0,Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
 
-70 ESPN
+#EXTINF:0,ESPN
 http://dflix.live:8082/23/index.m3u8?token=8fc88d76832ab923be7056d6b42dea031e59386c-7fe6c78b51bc16121563d7bebe1d4935-1597965073-1597954273&remote=103.58.73.174
 
-71 DSports
+#EXTINF:0,DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-72 WWE
+#EXTINF:0,WWE
 http://195.154.119.3:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDc6NTY6MzEgUE0maGFzaF92YWx1ZT1IdnZvbGFCM0xHY1c1eUorRjNpTmR3PT0mdmFsaWRtaW51dGVzPTI=
 
-73 ABP Ananda
+#EXTINF:0,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
 
-74 BBC World
+#EXTINF:0,BBC World
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 
-75 VOA
+#EXTINF:0,VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
 
-76 DW
+#EXTINF:0,DW
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 
-77 NDTV 24x7
+#EXTINF:0,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-78 Al Jazeera
+#EXTINF:0,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 
-79 Fox Life
+#EXTINF:0,Fox Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
-80 Net Geo HD
+#EXTINF:0,Net Geo HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
-81 Net Geo people
+#EXTINF:0,Net Geo people
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
-82 Net Wild
+#EXTINF:0,Net Wild
 
 
-83 Travel XP HD
+#EXTINF:0,Travel XP HD
 http://zer0live.hjkm.info:11990/juno/travelxphd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDExOjUwOjA3IEFNJmhhc2hfdmFsdWU9aGhkcjk2d3ZZZ2JnVDY0RHRoOHIyZz09JnZhbGlkbWludXRlcz0ymFsaWRtaW51dGVzPTI=
 
-84 History TV HD
+#EXTINF:0,History TV HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
-85 BBC Lifestyle
+#EXTINF:0,BBC Lifestyle
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
 
-86 Animal Planet
+#EXTINF:0,Animal Planet
 http://45.58.139.242:9630/toto/animalplanethindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDc6NDk6MTMgUE0maGFzaF92YWx1ZT1JZk5ubjh6cXF4ZllMd3Y0QXF5Nk93PT0mdmFsaWRtaW51dGVzPTI=
 
-87 Nick
+#EXTINF:0,Nick
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
-88 CN
+#EXTINF:0,CN
 http://dflix.live:8082/79/index.m3u8?token=bcd655c17e54c24550be443b5471f5c98a815499-407341c99f1f1ecb5ff5085bb9e1c278-1597965264-1597954464&remote=103.58.73.174
 
