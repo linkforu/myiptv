@@ -1,24 +1,24 @@
 #EXTM3U
 
-01 #EXTINF: BTV 
+#EXTINF: BTV 
 http://103.205.133.19/hls/btv.m3u8
 
-02 #EXTINF: BTV World
+#EXTINF: BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
-03 #EXTINF: BTV Chattagram
+#EXTINF: BTV Chattagram
 https://bds.jagobd.com:444/live-orgin/btvnational-ctg.stream/chunks.m3u8?
 
-04 #EXTINF: Sangsad TV
+#EXTINF: Sangsad TV
 https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
-05 #EXTINF: asian TV
+#EXTINF: asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
-06 #EXTINF: ATN Bangla TV
+#EXTINF: ATN Bangla TV
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
-07 ATN News
+ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
 08 Bangla Vision
