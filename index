@@ -124,7 +124,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1x84TM16R88CqrbO7ysNuzJoVMoHs8Jfn/view?usp=sharing" group-title="Movie",Zee Bangla Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_bangla_cinema/chunks.m3u80a93992d915b95b9.174=103.58.73.174
+https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1598556100~exp=1598559100~acl=/*~hmac=25957ebf4ef8c6990b05b30cc040680722b4cf37e5f6d111baefbcd7adba6426
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1RopmzcDbwRfAdr68cTp0cIznn9I7ciaJ/view?usp=sharing" group-title="Movie",Star Gold Hd
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
