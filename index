@@ -12,6 +12,9 @@ https://bds.jagobd.com:444/live-orgin/btvnational-ctg.stream/chunks.m3u8?
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Sangsad TV
 https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/18Q2jVrk2sGLmiVAmVoDi7maLHmjQSqzF/view?usp=sharing" group-title="Bangladesh",Ananda TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/15HQNBWf_WFjy8GJHEzIWadl-ECwyBJPj/view?usp=sharing" group-title="Bangladesh",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
@@ -27,6 +30,12 @@ https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1EWNCyNl3frdzdhSCLlOlBCIhePMXdl_q/view?usp=sharing" group-title="Bangladesh",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1qWnujCluHMtMHJYDgC9xJHQGfm3OHBtQ/view?usp=sharing" group-title="Bangladesh",Bangla TV
+http://103.205.133.14/hls/banglatv.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1EWNCyNl3frdzdhSCLlOlBCIhePMXdl_q/view?usp=sharing" group-title="Bangladesh",Bijoy TV
+https://itpolly.iptv.digijadoo.net/live/bijoy_tv/chunks.m3u8
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1vDjwsuKScnc6CI-UjHD-BQrWDKpNwlKG/view?usp=sharing" group-title="Bangladesh",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
@@ -35,6 +44,9 @@ https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1MYB6fCih-mAIPOyFWHmPPPX7bUx5V9qa/view?usp=sharing" group-title="Bangladesh",Channel i
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1MYB6fCih-mAIPOyFWHmPPPX7bUx5V9qa/view?usp=sharing" group-title="Bangladesh",Channel S
+https://itpolly.iptv.digijadoo.net/live/channel_s/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/11L_8hM-IoGSS2T0WwwWAc4t4JabVmTJI/view?usp=sharing" group-title="Bangladesh",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
@@ -72,6 +84,9 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1CCBpUZt_zjscZs6t1nH0YZu-y7HpMzcK/view?usp=sharing" group-title="Bangladesh",Mohona TV
 https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1MYB6fCih-mAIPOyFWHmPPPX7bUx5V9qa/view?usp=sharing" group-title="Bangladesh",Channel i
+https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1RKhHtphK8mlq4D3TZyx5S_r0dZ_n35Yp/view?usp=sharing" group-title="Bangladesh",News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 
@@ -90,11 +105,14 @@ https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nLAHkDlBnF-W2F0Qoi5Lsf2LnA2NNnRD/view?usp=sharing" group-title="Bangladesh",Nagorik TV
 http://103.205.133.14/hls/nagorik.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1qWnujCluHMtMHJYDgC9xJHQGfm3OHBtQ/view?usp=sharing" group-title="Bangladesh",Bangla TV
-http://103.205.133.14/hls/banglatv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1nLAHkDlBnF-W2F0Qoi5Lsf2LnA2NNnRD/view?usp=sharing" group-title="Bangladesh",Titas Sports
+http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1rF39gn_bJsyXZhisu6MhB_lnE9Ziz3f4/view?usp=sharing" group-title="Entertainment",Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1x84TM16R88CqrbO7ysNuzJoVMoHs8Jfn/view?usp=sharing" group-title="Entertainment",Zee Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1x84TM16R88CqrbO7ysNuzJoVMoHs8Jfn/view?usp=sharing" group-title="Entertainment",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
@@ -103,10 +121,13 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1XgaqFUj0JwUrwtg-OI02zN-MYDEuKsfm/view?usp=sharing" group-title="Entertainment",Sony Aath
-http://ccn.anytv.live:8080/sonyaath/index.m3u8
+http://103.205.133.19/hls/sony8.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1mjtqjd3EFZDdvM0c-d0txAiH0m0ogq_I/view?usp=sharing" group-title="Entertainment",Aakash Aath
 https://itpolly.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1mjtqjd3EFZDdvM0c-d0txAiH0m0ogq_I/view?usp=sharing" group-title="Entertainment",Enter10 bangla
+http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1pqcHmFmoYhgJv1z07FV9iloAwzHWnExA/view?usp=sharing" group-title="Entertainment",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
@@ -115,19 +136,25 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xZOVKaZSfHH3W0-hb53OlZ6Xd6O7LK5V/view?usp=sharing" group-title="Entertainment",Sony TV
-http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1tcIFgazjYSrr3f_8pXFRKUZxY9kl0lTE/view?usp=sharing" group-title="Entertainment",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1WNb1tD4lNUqaRepw1NU7WHQYlfl700JB/view?usp=sharing" group-title="Movie",Jalsha Movies HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1WNb1tD4lNUqaRepw1NU7WHQYlfl700JB/view?usp=sharing" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1x84TM16R88CqrbO7ysNuzJoVMoHs8Jfn/view?usp=sharing" group-title="Movie",Zee Bangla Cinema
-https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1598556100~exp=1598559100~acl=/*~hmac=25957ebf4ef8c6990b05b30cc040680722b4cf37e5f6d111baefbcd7adba6426
+http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1RopmzcDbwRfAdr68cTp0cIznn9I7ciaJ/view?usp=sharing" group-title="Movie",Star Gold Hd
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1RopmzcDbwRfAdr68cTp0cIznn9I7ciaJ/view?usp=sharing" group-title="Movie",Star Gold
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1p6Ahc3GmwOZcuvCcBaX3Iw7VqVydW7AH/view?usp=sharing" group-title="Movie",Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
@@ -141,23 +168,35 @@ http://dflix.live:8082/76/index.m3u8?token=a93622bebc5fa90469c858d134193e9763253
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xIzTtE-sH_XCUGRDk5Vec-73uopHscNj/view?usp=sharing" group-title="Movie",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",Sony max HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",Sony max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",&Picture HD
+http://103.205.133.14/hls/andpicture.m3u8
+
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",Enter10 Movies
+https://itpolly.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1JPyU5_UtFMK79slmK-sKKO6wqQfGv2Og/view?usp=sharing" group-title="Movie",B4U Movies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1CgkUi32m79JNFb2dTamiQJwbTZWB41xl/view?usp=sharing" group-title="Movie",Sony Pix HD
 http://103.205.133.14/hls/sonypix.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1JPyU5_UtFMK79slmK-sKKO6wqQfGv2Og/view?usp=sharing" group-title="Movie",Star Movies
-http://45.249.187.238:8081/hls/tsl-8.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1EPFLZFZVFmTegBRtVfNurB8psBhveCPD/view?usp=sharing" group-title="Movie",Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Movie",&Flix
-https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1598009196~exp=1598012196~acl=/*~hmac=51422fa338c6312302c952c1e532d7203872a7620f02fd4722035c2d830b3d02202.58.252.52
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1q70mO_xMl1V-QNS3bfBHxavNs3O4Bw8Z/view?usp=sharing" group-title="Movie",HBO
-http://otv.ftpbd.net/streams/111/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1lQotVq-E3NVwOIRDkhmVk01MLUnvjMjb/view?usp=sharing" group-title="Music",Sangeet bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
@@ -180,41 +219,38 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/18u7AZijj7tZENTs3pdevmyb60kfDhWtr/view?usp=sharing" group-title="Music",9XM
 http://103.205.133.14/hls/9xm.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xU9M9cPU3gU-I8iryJ0eqiRDy4rn0WGj/view?usp=sharing" group-title="Music",B4U
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xU9M9cPU3gU-I8iryJ0eqiRDy4rn0WGj/view?usp=sharing" group-title="Music",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1I0NNyXzis4FuqRnWp9HhVEwuVjSCj8Gg/view?usp=sharing" group-title="Sports",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1I0NNyXzis4FuqRnWp9HhVEwuVjSCj8Gg/view?usp=sharing" group-title="Sports",Star Sports Select 1 HD
-http://otv.ftpbd.net/streams/113/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1j0FUKw6OKmte-BpH56FiGW9Rb-wN-WPH/view?usp=sharing" group-title="Sports",Star Sports Select 2 HD
-http://otv.ftpbd.net/streams/114/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1QmgnOZmmsyJwEGcP6VhbbVrq5z6RkdrW/view?usp=sharing" group-title="Sports",Star Sports 1 HD
-http://otv.ftpbd.net/streams/104/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1d1ilviMVssP0P00rTwP9f2HGYgqtE8JW/view?usp=sharing" group-title="Sports",Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1xa5wU4SOQmIJHydqxC9aAj2Mozg52JTA/view?usp=sharing" group-title="Sports",Sony Ten 1 HD
-http://otv.ftpbd.net/streams/105/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/143p7XehSw3lQ1qlswXYs7YnhbfJ8vzzb/view?usp=sharing" group-title="Sports",Sony Ten 2 HD
-http://otv.ftpbd.net/streams/112/index.m3u8
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1DO-l3lFbpPeB_Tj81utyA2LVMDffOSDc/view?usp=sharing" group-title="Sports",Sony Ten 3 HD
 http://103.205.133.14/hls/ten3.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1c8n40u26JK6TXc66N91d5YA4nv9ujtzT/view?usp=sharing" group-title="Sports",Sony Six
-http://otv.ftpbd.net/streams/106/index.m3u8
-
-#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/13c_fEgvB7cHHcwb1KZzRqa9fUeO4QnpG/view?usp=sharing" group-title="Sports",ESPN
-http://dflix.live:8082/23/index.m3u8?token=8fc88d76832ab923be7056d6b42dea031e59386c-7fe6c78b51bc16121563d7bebe1d4935-1597965073-1597954273&remote=103.58.73.174
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1vzutzoEOyGEyiPYoR6h8r1QGCWurXgk7/view?usp=sharing" group-title="Sports",DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
-#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1v8566mSi1XZ1xjenxIayZzaRo9WOyNLS/view?usp=sharing" group-title="Sports",WWE
-http://195.154.119.3:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIwIDc6NTY6MzEgUE0maGFzaF92YWx1ZT1IdnZvbGFCM0xHY1c1eUorRjNpTmR3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1_CKUZo5E7SlXqo_ix4vc7Yvke9EGskCK/view?usp=sharing" group-title="News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
@@ -237,8 +273,11 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1MDoU3GeN7bHMXbZGCI5LoCRLN5-lgCSf/view?usp=sharing" group-title="Infotainment",Fox Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1MDoU3GeN7bHMXbZGCI5LoCRLN5-lgCSf/view?usp=sharing" group-title="Infotainment",Discovery Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1ECYjBrOCrRvEEKzjCQ41yXKcb4t_FTAp/view?usp=sharing" group-title="Infotainment",Nat Geo
-https://bol.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1zOHO2uAp0IPZ3lw_sfZMHAY-8RnIHLZK/view?usp=sharing" group-title="Infotainment",Nat Geo people
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
@@ -247,7 +286,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1r_77Gr-C-pxqIO5xW1HEfPL3JAX-jVqv/view?usp=sharing" group-title="Infotainment",Travel XP HD
-http://dpasdl08.tth.cl:8745/eros/travelxphd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIwIDEwOjM3OjEwIFBNJmhhc2hfdmFsdWU9SVg4MHB5eHBRQVFzdS9SSlo0aXZvUT09JnZhbGlkbWludXRlcz0ynZhbGlkbWludXRlcz0y
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1v9e6zrGh9On2btdShxwzzFA0TeVXbiyY/view?usp=sharing" group-title="Infotainment",History TV HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
@@ -262,5 +301,10 @@ http://103.135.208.14/live/ibox/bd/93.m3u8
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1hqF-siFFXqY3C2hMo5HVSP9rhkfRbL4n/view?usp=sharing" group-title="kids",Cartoon Network
-http://dflix.live:8082/79/index.m3u8?token=bcd655c17e54c24550be443b5471f5c98a815499-407341c99f1f1ecb5ff5085bb9e1c278-1597965264-1597954464&remote=103.58.73.174
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1hqF-siFFXqY3C2hMo5HVSP9rhkfRbL4n/view?usp=sharing" group-title="kids",Disnep XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1hqF-siFFXqY3C2hMo5HVSP9rhkfRbL4n/view?usp=sharing" group-title="kids",BBC Cbeebies
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
