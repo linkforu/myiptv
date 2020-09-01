@@ -148,7 +148,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1x84TM16R88CqrbO7ysNuzJoVMoHs8Jfn/view?usp=sharing" group-title="Movie",Zee Bangla Cinema
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1RopmzcDbwRfAdr68cTp0cIznn9I7ciaJ/view?usp=sharing" group-title="Movie",Star Gold Hd
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
@@ -163,7 +163,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
 http://dflix.live:8082/75/index.m3u8?token=3d84071b528f01e2173d2fdcba6fe41b6e001eaf-ae7755747a3b3a9c5da1b89a1c78811e-1597968492-1597957692&remote=103.58.73.174
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/10wITwk-mYa0m0QxpsXT3Phljo24J-jNW/view?usp=sharing" group-title="Movie",Zee Cinema HD
-http://dflix.live:8082/76/index.m3u8?token=a93622bebc5fa90469c858d134193e9763253a8a-2ade18e4646d0c6598f6ace00bc723b6-1597964914-1597954114&remote=103.58.73.174
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1xIzTtE-sH_XCUGRDk5Vec-73uopHscNj/view?usp=sharing" group-title="Movie",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
@@ -247,7 +247,7 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 http://103.205.133.14/hls/ten3.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1c8n40u26JK6TXc66N91d5YA4nv9ujtzT/view?usp=sharing" group-title="Sports",Sony Six
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1vzutzoEOyGEyiPYoR6h8r1QGCWurXgk7/view?usp=sharing" group-title="Sports",DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
