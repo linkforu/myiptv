@@ -250,13 +250,28 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-3.jpg" group-title="Sports",Sony Ten 3 HD
-https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://103.205.133.14/hls/ten3.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_DcW22nod3TAl90hcbxU4vlKIu-e_jnM-xg&usqp=CAU" group-title="Sports",Sony Six
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fdsport.jpg&h=570&w=855&q=100&v=20170226&c=1" group-title="Sports",DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports",Sky Sports Main Event
+http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_480/playlist.m3u8
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://i.dlpng.com/static/png/7211722_preview.png" group-title="Sports",Sky Sports Premier League
+http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_480/playlist.m3u8
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/08/sky-cricket.png" group-title="Sports",Sky Sports Cricket
+http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_480/playlist.m3u8
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png" group-title="Sports",Sky Sports Football
+http://139.99.17.52:8081/liveorigin/uk-skysports-football_480/playlist.m3u8
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://archive.org/services/img/SkySportsMixNew_201708" group-title="Sports",Sky Sports Mix
+http://139.99.17.52:8081/liveorigin/uk-skysports-mix_480/playlist.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://indiaeducationdiary.in/wp-content/uploads/2020/06/abp-ananda.png" group-title="News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
