@@ -250,7 +250,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-3.jpg" group-title="Sports",Sony Ten 3 HD
-http://103.205.133.14/hls/ten3.m3u8
+https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_DcW22nod3TAl90hcbxU4vlKIu-e_jnM-xg&usqp=CAU" group-title="Sports",Sony Six
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
