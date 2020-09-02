@@ -174,6 +174,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",Sony max
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",Sony max 2
+https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://drive.google.com/file/d/1XQATA8Qd41StIrmQjiDrnhtN52sildI4/view?usp=sharing" group-title="Movie",&Picture HD
 http://103.205.133.14/hls/andpicture.m3u8
 
@@ -197,6 +200,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1q70mO_xMl1V-QNS3bfBHxavNs3O4Bw8Z/view?usp=sharing" group-title="Movie",HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+
+#EXTINF:0 tvg-language="English" tvg-logo="https://drive.google.com/file/d/1q70mO_xMl1V-QNS3bfBHxavNs3O4Bw8Z/view?usp=sharing" group-title="Movie",AXN
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://drive.google.com/file/d/1lQotVq-E3NVwOIRDkhmVk01MLUnvjMjb/view?usp=sharing" group-title="Music",Sangeet bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
