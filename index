@@ -57,7 +57,7 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.pinimg.com/564x/b2/d9/d1/b2d9d1a4dd594c8f0bedfaf9f6a95b2c.jpg",Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.pinimg.com/236x/30/17/8f/30178f6a7f669514a4a7bfd9964fd259.jpg" group-title="Kids",Duronto TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.pinimg.com/236x/30/17/8f/30178f6a7f669514a4a7bfd9964fd259.jpg" group-title="kids",Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/05/20/20160520214548-d74e76fa-th.png" group-title="News",Ekattor TV
