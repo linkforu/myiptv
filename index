@@ -46,7 +46,7 @@ https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/05/20/20160520214544-9b6d4e92-th.png" group-title="Entertainment",Channel S
-https://channelsbd-hls.telelivebd.com/channelsbd/c2fd3edbd071ef2c15bd39f08d934859.sdp/chunks.m3u8
+https://stream.telelivebd.com/ChannelSbd/ChannelSbd.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="News",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
