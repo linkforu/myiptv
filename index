@@ -160,7 +160,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-gold-select-hd-logo-300x300.jpg" group-title="Movie",Star Gold Select HD
-http://dflix.live:8082/75/index.m3u8?token=3d84071b528f01e2173d2fdcba6fe41b6e001eaf-ae7755747a3b3a9c5da1b89a1c78811e-1597968492-1597957692&remote=103.58.73.174
+https://watchindia.net:8443/live/71446/19395/784.ts
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-cinemaHD.jpg" group-title="Movie",Zee Cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
