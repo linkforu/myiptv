@@ -189,6 +189,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/09/11/star_movies.jpg?itok=YtSGEJBl" group-title="Movie",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 
+#EXTINF:0 tvg-language="English" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fstar-movies-select-hd%2F&psig=AOvVaw0kCXukSNC5vY3HuKxTtbxF&ust=1600006268433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjf3fzl4-sCFQAAAAAdAAAAABAh" group-title="Movie",Star Movies
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+
 #EXTINF:0 tvg-language="English" tvg-logo="https://img2.pngio.com/most-kids-are-made-up-of-sugar-spice-and-everything-star-world-star-world-png-840_859.png" group-title="Movie",Star World
 https://robi.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
