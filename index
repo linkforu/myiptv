@@ -189,7 +189,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/09/11/star_movies.jpg?itok=YtSGEJBl" group-title="Movie",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 
-#EXTINF:0 tvg-language="English" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fstar-movies-select-hd%2F&psig=AOvVaw0kCXukSNC5vY3HuKxTtbxF&ust=1600006268433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjf3fzl4-sCFQAAAAAdAAAAABAh" group-title="Movie",Star Movies
+#EXTINF:0 tvg-language="English" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fstar-movies-select-hd%2F&psig=AOvVaw0kCXukSNC5vY3HuKxTtbxF&ust=1600006268433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjf3fzl4-sCFQAAAAAdAAAAABAh" group-title="Movie",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://img2.pngio.com/most-kids-are-made-up-of-sugar-spice-and-everything-star-world-star-world-png-840_859.png" group-title="Movie",Star World
@@ -205,7 +205,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet bangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+https://yuppcatchup.akamaized.net/sangeetbangla/12Sep2020/1100/1599917500938_6000.ts
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyeHh2vUB9zpOCNUKamg3ni7xPm74T590Wg&usqp=CAU" group-title="Music",Bangla Talkies
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
