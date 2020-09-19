@@ -228,6 +228,9 @@ http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/a5/66/a4/a566a4df43bc77cad51a51e141137eef920552c5f903fa433f969e9365f8ab50.jpg" group-title="Music",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="Sports",PK Sports HD
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+
 #EXTINF:0 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="Sports",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
