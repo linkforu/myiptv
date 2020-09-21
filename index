@@ -248,6 +248,7 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://banner2.cleanpng.com/20180517/vte/kisspng-star-sports-sony-ten-star-india-television-channel-5afd5e7e7da494.2764632015265542385146.jpg" group-title="Sports",Star Sports 1
 http://pioneer.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/68.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://mpng.subpng.com/20180920/hqu/kisspng-logo-star-sports-television-channel-5ba332dba39855.6830968815374220436701.jpg" group-title="Sports",Star Sports 2
 http://103.205.133.14/hls/chss2.m3u8
