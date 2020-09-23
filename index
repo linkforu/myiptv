@@ -148,7 +148,7 @@ http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Movie",Star Gold Hd
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+http://185.246.210.54:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Star_Gold_2020.svg/revision/latest/scale-to-width-down/340?cb=20200131202423" group-title="Movie",Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
@@ -157,7 +157,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-gold-select-hd-logo-300x300.jpg" group-title="Movie",Star Gold Select HD
-http://195.181.169.129/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
+http://185.246.210.54:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-cinemaHD.jpg" group-title="Movie",Zee Cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
