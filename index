@@ -121,7 +121,7 @@ http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
 http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Entertainment",Aakash Aath
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Entertainment",Enter10 bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
@@ -184,15 +184,16 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg" group-title="Movie",Sony Pix HD
-http://45.249.187.238:8081/hls/tsl-4.m3u8
+http://45.249.187.238:8081/hls/new21.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/09/11/star_movies.jpg?itok=YtSGEJBl" group-title="Movie",Star Movies
+http://185.246.210.54:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rdcablenet.com%2Fproduct%2Fstar-movies-select-hd%2F&psig=AOvVaw0kCXukSNC5vY3HuKxTtbxF&ust=1600006268433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjf3fzl4-sCFQAAAAAdAAAAABAh" group-title="Movie",Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+http://185.246.210.54:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://img2.pngio.com/most-kids-are-made-up-of-sugar-spice-and-everything-star-world-star-world-png-840_859.png" group-title="Movie",Star World
-https://robi.iptv.digijadoo.net/live/star_world/chunks.m3u8
+
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/340?cb=20200430075815" group-title="Movie",&Flix
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
@@ -216,7 +217,7 @@ https://itpolly.iptv.digijadoo.net/live/dhoom_music/playlist.m3u8
 https://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyIxscsZvUpq2rLy8eYd65MF75M6HPSB2u3Q&usqp=CAU" group-title="Music",Zoom
-https://robi.iptv.digijadoo.net/live/zoom/playlist.m3u8
+http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 
 #EXTINF:0 tvg-language="https://www.bestmediainfo.com/wp-content/uploads/2014/04/zing-logo.jpg" group-title="Music",Zing
 https://robi.iptv.digijadoo.net/live/zing/chunks.m3u8
@@ -261,30 +262,31 @@ http://103.205.133.14/hls/chss2.m3u8
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-2.png" group-title="Sports",Sony Ten 2 HD
-http://103.135.208.14/live/ibox/bd/56..m3u8
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-3.jpg" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_DcW22nod3TAl90hcbxU4vlKIu-e_jnM-xg&usqp=CAU" group-title="Sports",Sony Six
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fdsport.jpg&h=570&w=855&q=100&v=20170226&c=1" group-title="Sports",DSports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BMain%2BEvents.jpg" group-title="Sports",Sky Sports Main Event
-http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_480/playlist.m3u8
+
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://i.dlpng.com/static/png/7211722_preview.png" group-title="Sports",Sky Sports Premier League
-http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_480/playlist.m3u8
+
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://sportstvon.com/wp-content/uploads/2017/08/sky-cricket.png" group-title="Sports",Sky Sports Cricket
-http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_480/playlist.m3u8
+
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.pikpng.com/pngl/m/345-3459371_logo-sky-sports-football3-sky-sports-main-event.png" group-title="Sports",Sky Sports Football
-http://139.99.17.52:8081/liveorigin/uk-skysports-football_480/playlist.m3u8
+
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://archive.org/services/img/SkySportsMixNew_201708" group-title="Sports",Sky Sports Mix
-http://139.99.17.52:8081/liveorigin/uk-skysports-mix_480/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 1
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.m3u8
