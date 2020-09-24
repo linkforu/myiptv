@@ -338,30 +338,30 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://tingskathmanducom.files.wordpress.com/2016/03/nat-geo-logo.jpg" group-title="Infotainment",Nat Geo
-https://robi.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+http://185.246.210.54:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQednAGNlTD5hzP04a7kohCxYIopk4c-SkNag&usqp=CAU" group-title="Infotainment",Nat Geo people
-https://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+http://185.246.210.54:2200/R-EX/HINDI_NAT_GEO_PEOPLE_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJk9k-Ptweejc1l9oH2qT1ELYGKum4y6BCwQ&usqp=CAU" group-title="Infotainment",Nat Geo Wild
-https://robi.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+http://185.246.210.54:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/845.png="Infotainment",Travel XP HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="Infotainment",History TV HD
-https://robi.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+http://103.214.202.218:8081/live/history/chunks.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmppbzznezwi6smw4_khEMd93QNM9wuVFTJA&usqp=CAU" group-title="Infotainment",BBC Lifestyle
-https://robi.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://hollywoodtranscriptions.com/assets/uploads/sites/582/2020/02/Animal-Planet-logo.jpg" group-title="Infotainment",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1484052875/kg2zyooqyelillmmtvdj.png" group-title="kids",Nick
-https://robi.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="kids",Nick
+http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
 
-#EXTINF:0 tvg-language="English" tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397193885/35a741da810186184e215b3cd892521c.jpg" group-title="kids",Cartoon Network
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="kids",Cartoon Network
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/playlist.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/proxy/u0lHUYDZ4fa1i5qUtLTwUHaYv5delmLKc93L95RIlXf_ms1ebKQhAY5Dmw8jYxOs-RCBaC-V7Yl8-OEYtlyUbX7urTBNqJcbfeU" group-title="kids",Disney XD
