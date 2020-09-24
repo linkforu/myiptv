@@ -127,7 +127,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="Entertainment",Star Plus HD
-http://randomserver.site:2086/live/Bria/Bria/91828.ts
+http://185.246.210.54:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/a/AATXAJx4AvJvP8c81B8pnULUygAzVTdS-dIyacHiLjA2WA=s176-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",Zee TV
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
@@ -136,7 +136,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/
 http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",Colors HD
-http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
+http://185.246.210.54:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-TVcl8AW7oxljqgHpFYTQPgFDwL6bk23iow&usqp=CAU" group-title="Movie",Jalsha Movies HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
