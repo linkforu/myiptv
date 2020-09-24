@@ -295,7 +295,7 @@ http://fariszah.myq-see.com:8008/live/demo/demo/21549.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 3
 http://fariszah.myq-see.com:8008/live/demo/demo/21550.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 4
-http://fariszah.myq-see.com:8008/live/demo/demo/21551.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 5
 http://fariszah.myq-see.com:8008/live/demo/demo/21552.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 6
@@ -307,17 +307,17 @@ http://fariszah.myq-see.com:8008/live/demo/demo/2314.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 9
 http://fariszah.myq-see.com:8008/live/demo/demo/2315.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 10
-http://fariszah.myq-see.com:8008/live/demo/demo/2316.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 11
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6132/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png",BEIN SPORTS AR 12
-http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6133/index.m3u8
+
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://indiaeducationdiary.in/wp-content/uploads/2020/06/abp-ananda.png" group-title="News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGJMNu5T1nptR5-hZoacv0xKP74vhFFCkj8Q&usqp=CAU" group-title="News",BBC World
-https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+http://203.162.235.41:16917
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/VOA_logo1.png" group-title="News",VOA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
