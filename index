@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="",MY IPTV
+https://raw.githubusercontent.com/linkforu/myiptv/master/TVOpeningChannel.mp4
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png" group-title="National",BTV
 http://103.205.133.19/hls/btv.m3u8
 
