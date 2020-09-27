@@ -116,10 +116,10 @@ http://tempe.appv.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 http://89.187.169.200:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/zee-bangla-hd-logo.jpg" group-title="Entertainment",Zee Bangla HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-bangla-hd-logo.jpg" group-title="Entertainment",Color Bangla HD
-http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+http://185.59.222.236:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
 http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
