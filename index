@@ -239,16 +239,16 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://kccl.tv/sites/default/files/star%20sports%20select%201%20hd.png" group-title="Sports",Star Sports Select 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://kccl.tv/sites/default/files/star%20sports%20select%202.png" group-title="Sports",Star Sports Select 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://cdn.clipart.email/0bed8f3ddbc0db688ed6ad84d6b8faf7_star-sports-1-logopedia-fandom_871-469.jpeg" group-title="Sports",Star Sports 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="Sports",Star Sports 2 HD
-http://otv.ftpbd.net/streams/116/index.m3u8
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://banner2.cleanpng.com/20180517/vte/kisspng-star-sports-sony-ten-star-india-television-channel-5afd5e7e7da494.2764632015265542385146.jpg" group-title="Sports",Star Sports 1
 http://45.249.187.238:8081/hls/new1.m3u8
@@ -257,7 +257,7 @@ http://45.249.187.238:8081/hls/new1.m3u8
 http://103.205.133.14/hls/chss2.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-3.jpg" group-title="Sports",Star Sports 3
-
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://www.pngjoy.com/pngm/372/6897485_indian-cricket-team-logo-star-sports-4-logo.png" group-title="Sports",Star Sports 4
 
