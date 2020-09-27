@@ -122,7 +122,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebangl
 http://185.59.222.236:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
-http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
+http://89.187.169.206:2200/R-EX/MARATHI_SONY_AATH-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Entertainment",Aakash Aath
 http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
@@ -133,11 +133,11 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="Entertainment",Star Plus HD
 http://185.246.210.54:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/a/AATXAJx4AvJvP8c81B8pnULUygAzVTdS-dIyacHiLjA2WA=s176-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",Zee TV
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/a/AATXAJx4AvJvP8c81B8pnULUygAzVTdS-dIyacHiLjA2WA=s176-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",Zee TV HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 
-#EXTINF:0 tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHStTEvzUibvE5EFk1KdGYnoYcNQA_Ely0xg&usqp=CAU" group-title="Entertainment",Sony TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
+#EXTINF:0 tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHStTEvzUibvE5EFk1KdGYnoYcNQA_Ely0xg&usqp=CAU" group-title="Entertainment",Sony TV HD
+http://198.255.87.59:8080/INDIA_HINDI/SONY_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",Colors HD
 http://185.246.210.54:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
