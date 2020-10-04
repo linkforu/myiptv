@@ -124,7 +124,7 @@ http://185.59.222.236:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u
 http://89.187.169.206:2200/R-EX/MARATHI_SONY_AATH-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Entertainment",Aakash Aath
-https://raw.githubusercontent.com/linkforu/myiptv/master/Channel is not available.mp4
+https://raw.githubusercontent.com/linkforu/myiptv/master/Channelisnotavailable.mp4
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Entertainment",Enter10 bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
