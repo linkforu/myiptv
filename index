@@ -121,7 +121,7 @@ http://global.thunderbd.com/34/tracks-v1a1/mono.m3u8
 http://global.thunderbd.com/43/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
-http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aa-9189.jpg" group-title="Entertainment",Aakash Aath
 http://global.thunderbd.com/32/tracks-v1a1/mono.m3u8
@@ -130,16 +130,16 @@ http://global.thunderbd.com/32/tracks-v1a1/mono.m3u8
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/1164132839710838784/LHQ31mtM_400x400.jpg" group-title="Entertainment",Star Plus HD
-http://185.246.210.54:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://yt3.ggpht.com/a/AATXAJx4AvJvP8c81B8pnULUygAzVTdS-dIyacHiLjA2WA=s176-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",Zee TV HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHStTEvzUibvE5EFk1KdGYnoYcNQA_Ely0xg&usqp=CAU" group-title="Entertainment",Sony TV HD
 http://198.255.87.59:8080/INDIA_HINDI/SONY_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",Colors HD
-http://185.246.210.54:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-TVcl8AW7oxljqgHpFYTQPgFDwL6bk23iow&usqp=CAU" group-title="Movie",Jalsha Movies HD
 http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
@@ -205,7 +205,7 @@ http://185.246.210.54:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mon
 http://global.thunderbd.com/78/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/13/w900X450/HBO_FB.JPG" group-title="Movie",HBO
-http://45.249.187.238:8081/hls/new13.m3u8
+http://global.thunderbd.com/42/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR59VlZEwyVZHWO13e1zGxLKsUq_ggdrF-e9Q&usqp=CAU" group-title="Movie",AXN
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
